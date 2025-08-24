@@ -2,6 +2,8 @@
 
 This project implements an agentic pipeline in a Google Colab environment to generate accurate, speaker-separated subtitles for video clips. It demonstrates a multi-agent workflow where specialized AI models collaborate to perform complex media processing tasks, resulting in high-quality, verified subtitle output.
 
+Video Link->https://drive.google.com/drive/folders/1v3cJuzTmsg_XXz1HyHZngvbeDoDiSOkd?usp=sharing
+
 ## Project Objective
 
 The main objective of this project is to create a robust and flexible pipeline for generating subtitles that are not only accurate in transcription but also correctly attribute dialogue to different speakers. This is achieved by integrating several state-of-the-art AI models in a sequential workflow.
